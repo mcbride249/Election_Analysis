@@ -16,7 +16,7 @@ Goals:
 
 ##Summary
 The analysis of the election show that:
--There were "x" votes case in the election.
+-There were 369,711 votes case in the election.
 -The Candidates were:
   -Diana DeGette
   -Charles Casper Stockham
@@ -24,7 +24,7 @@ The analysis of the election show that:
 -The Candidate resuts were:
   -Diana DeGette received 73.8% of the vote and 272,892 number of votes
   -Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes
-  -Ratymon Anthony Doane received 3.1% of the vote and 11,606 number of votes
+  -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes
 -The winner of the election was:
   -Diana Gette who received 73.8% of the vote and 272,892 number of votes
   
